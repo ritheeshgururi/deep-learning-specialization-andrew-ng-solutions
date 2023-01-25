@@ -1,3 +1,13 @@
+#custom
+*.mat
+*.h5
+*.png
+*.jpg
+*.data-00000-of-00001
+*.gif
+*.mp4
+*.trashinfo
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
