@@ -7,6 +7,12 @@
 *.gif
 *.mp4
 *.trashinfo
+*.jpeg
+*.bin
+*.npy
+*.mp3
+*.wav
+Course 5 - Sequence Models/**/*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
